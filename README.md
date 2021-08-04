@@ -19,7 +19,7 @@ Price = -5,269 + 8,413 x Carat + 158.1 x Cut + 454 x Clarity
 
 ![diamond](https://user-images.githubusercontent.com/67826647/128141029-5e922a48-7b9b-4352-9bd3-284e00216cf6.png)
 
-========================================================================================
+=====================================================================================
 
 # PROJECT 2 : Predicting Catalog Demand
 
@@ -36,7 +36,7 @@ You’ve been asked to predict the expected profit from these 250 new customers.
 * Make sure to multiply your revenue by the gross margin first before you subtract out the $6.50 cost when calculating your profit.
 * Write a short report with your recommendations outlining your reasons why the company should go with your recommendations to your manager.
 
-===================================================================================================
+=====================================================================================
 
 # PROJECT 3 : Create an analytical dataset
 
@@ -56,7 +56,7 @@ Your manager has given you the following information to work with:
 
 ![image](https://user-images.githubusercontent.com/67826647/128142306-180a18dd-b621-4ea7-ad0f-fcd3ff1d6722.png)
 
-===================================================================================================
+=====================================================================================
 
 # PROJECT 4 : Predicting default risk
 
@@ -71,9 +71,10 @@ Fortunately for you, you just completed a course in classification modeling and 
 
 For this project, you will analyze the business problem using the Problem Solving Framework and provide a list of creditworthy customers to your manager in the next two days.
 
+
 You have the following information to work with:
 
 1. Data on all past applications
 2. The list of customers that need to be processed in the next few days
 
-===================================================================================================
+=====================================================================================
