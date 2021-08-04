@@ -13,11 +13,11 @@ A diamond distributor has recently decided to exit the market and has put up a s
 
 The following diagram represents the analysis at a high level. Since the model is already built, your analysis will focus on the right side of the diagram.
 
+![diamond](https://user-images.githubusercontent.com/67826647/128141029-5e922a48-7b9b-4352-9bd3-284e00216cf6.png)
+
 The linear regression model provides an equation that you can use to predict diamond prices for the set of 3,000 diamonds. The equation is below:
 
 Price = -5,269 + 8,413 x Carat + 158.1 x Cut + 454 x Clarity
-
-![diamond](https://user-images.githubusercontent.com/67826647/128141029-5e922a48-7b9b-4352-9bd3-284e00216cf6.png)
 
 =====================================================================================
 
