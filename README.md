@@ -1,5 +1,5 @@
 # Udacity-Predictive-Analytics-Nanodegree-Projects-Python
-This repo has my python version of predictive analytics nanodegree projects
+This repo has my alteryx version of predictive analytics nanodegree projects
 
 # PROJECT 1 : Predicting Diamond Prices
 ### Project Overview
