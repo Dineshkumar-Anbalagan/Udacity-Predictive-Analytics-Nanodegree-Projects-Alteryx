@@ -21,7 +21,7 @@ Price = -5,269 + 8,413 x Carat + 158.1 x Cut + 454 x Clarity
 
 =====================================================================================
 
-# PROJECT 2 : Predicting Catalog Demand
+# PROJECT 2 : [Predicting Catalog Demand](https://github.com/Dineshkumar-Anbalagan/Udacity-Predictive-Analytics-Nanodegree-Projects-Alteryx/tree/main/Project%202%20-%20Predicting_Catalogue_Demand)
 
 ### The Business Problem
 You recently started working for a company that manufactures and sells high-end home goods. Last year the company sent out its first print catalog, and is preparing to send out this year's catalog in the coming months. The company has 250 new customers from their mailing list that they want to send the catalog to.
@@ -38,7 +38,7 @@ You’ve been asked to predict the expected profit from these 250 new customers.
 
 =====================================================================================
 
-# PROJECT 3 : Create an analytical dataset
+# PROJECT 3 : [Create an analytical dataset](https://github.com/Dineshkumar-Anbalagan/Udacity-Predictive-Analytics-Nanodegree-Projects-Alteryx/tree/main/Project%203%20-%20Creating%20Analytical%20Dataset)
 
 ### The Business Problem
 Pawdacity is a leading pet store chain in Wyoming with 13 stores throughout the state. This year, Pawdacity would like to expand and open a 14th store. Your manager has asked you to perform an analysis to recommend the city for Pawdacity’s newest store, based on predicted yearly sales.
@@ -58,7 +58,7 @@ Your manager has given you the following information to work with:
 
 =====================================================================================
 
-# PROJECT 4 : Predicting default risk
+# PROJECT 4 :[ Predicting default risk](https://github.com/Dineshkumar-Anbalagan/Udacity-Predictive-Analytics-Nanodegree-Projects-Alteryx/tree/main/Project%204%20-%20Predicting%20Default%20Risk)
 
 ### The Business Problem
 You work for a small bank and are responsible for determining if customers are creditworthy to give a loan to. Your team typically gets 200 loan applications per week and approves them by hand.
@@ -78,3 +78,27 @@ You have the following information to work with:
 2. The list of customers that need to be processed in the next few days
 
 =====================================================================================
+
+# PROJECT 4 : [AB Test a New Menu Launch](https://github.com/Dineshkumar-Anbalagan/Udacity-Predictive-Analytics-Nanodegree-Projects-Alteryx/tree/main/Project%205%20-%20AB%20Test%20a%20New%20Menu%20Launch)
+
+### The Business Problem
+Round Roasters is an upscale coffee chain with locations in the western United States of America. The past few years have resulted in stagnant growth at the coffee chain, and a new management team was put in place to reignite growth at their stores.
+
+The first major growth initiative is to introduce gourmet sandwiches to the menu, along with limited wine offerings. The new management team believes that a television advertising campaign is crucial to drive people into the stores with these new offerings.
+
+However, the television campaign will require a significant boost in the company’s marketing budget, with an unknown return on investment (ROI). Additionally, there is concern that current customers will not buy into the new menu offerings.
+
+To minimize risk, the management team decides to test the changes in two cities with new television advertising. Denver and Chicago cities were chosen to participate in this test because the stores in these two cities (or markets) perform similarly to all stores across the entire chain of stores; performance in these two markets would be a good proxy to predict how well the updated menu performs.
+
+The test ran for a period of 12 weeks (2016-April-29 to 2016-July-21) where five stores in each of the test markets offered the updated menu along with television advertising.
+
+The comparative period is the test period, but for last year (2015-April-29 to 2015-July-21).
+
+You’ve been asked to analyze the results of the experiment to determine whether the menu changes should be applied to all stores. The predicted impact to profitability should be enough to justify the increased marketing budget: at least 18% increase in profit growth compared to the comparative period while compared to the control stores; otherwise known as incremental lift. In the data, profit is represented in the gross_margin variable.
+
+You have been able to gather three data files to use for your analysis:
+
+* Transaction data for all stores from 2015-January-21 to 2016-August-18
+* A listing of all Round Roasters stores
+* A listing of the 10 stores (5 in each market) that were used as test markets.
+
