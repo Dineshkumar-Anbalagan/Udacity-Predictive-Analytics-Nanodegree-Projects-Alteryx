@@ -1,6 +1,11 @@
 # Udacity-Predictive-Analytics-Nanodegree-Projects-Python
 This repo has my alteryx version of predictive analytics nanodegree projects
 
+## CRISP-DM
+
+![image](https://user-images.githubusercontent.com/67826647/130355744-39c4d69b-f912-4212-a03d-f965b87d8e78.png)
+
+
 # PROJECT 1 : [Predicting Diamond Prices](https://github.com/Dineshkumar-Anbalagan/Udacity-Predictive-Analytics-Nanodegree-Projects-Alteryx/tree/main/Project%201%20-%20Diamond_Project)
 ### Project Overview
 A jewelry company wants to put in a bid to purchase a large set of diamonds, but is unsure how much it should bid. In this project, you will use the results from a predictive model to make a recommendation on how much the jewelry company should bid for the diamonds.
