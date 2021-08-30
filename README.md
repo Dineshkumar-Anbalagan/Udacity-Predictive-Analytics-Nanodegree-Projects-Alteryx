@@ -107,6 +107,7 @@ You have been able to gather three data files to use for your analysis:
 * A listing of all Round Roasters stores
 * A listing of the 10 stores (5 in each market) that were used as test markets.
 
+=====================================================================================
 
 # PROJECT 6 : CAPSTONE PROJECT : [SEGMENTATION AND CLUSTERING](https://github.com/Dineshkumar-Anbalagan/Udacity-Predictive-Analytics-Nanodegree-Projects-Alteryx/tree/main/Project%206%20-%20Segmentation%20and%20Clustering)
 
